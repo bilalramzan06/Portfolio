@@ -10,7 +10,7 @@ body{
 
 .container-fluid{
  
-    background: rgb(11,8,64);
+    background: rgb(60, 52, 209);
 background: linear-gradient(90deg, rgba(11,8,64,1) 0%, rgba(13,13,61,1) 75%, rgba(21,45,105,1) 94%, rgba(20,42,101,1) 98%);
 }
 header{
