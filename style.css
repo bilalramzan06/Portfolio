@@ -72,7 +72,7 @@ text-decoration: none;
 }
 
 .download-button a:hover{
-    background-color: yellow;
+    background-color: rgb(231, 231, 0);
     color: black;
 
 }
